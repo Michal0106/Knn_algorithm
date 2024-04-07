@@ -1,1 +1,1 @@
-# NAI_PJATK
+This Python script implements the k-Nearest Neighbors (kNN) algorithm to classify Iris flowers based on their attributes. The script reads training and test data from text files, calculates the Euclidean distance between instances, and determines the class label based on the majority vote of the k nearest neighbors.
